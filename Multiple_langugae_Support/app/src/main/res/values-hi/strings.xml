@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiple_language_support_in_android</string>
+    <string name="hello">nameset</string>
+    <string name="Show_Toast">abc</string>
+    <string name="toast">avs</string>
+</resources>
